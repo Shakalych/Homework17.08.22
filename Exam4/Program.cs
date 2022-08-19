@@ -5,10 +5,11 @@ int num = Convert.ToInt32(Console.ReadLine());
 for (int x = 1; x < num + 1; x++)       
     if (x%2==0)
     {
-        Console.Write("Четное " );
-        Console.WriteLine(x);
+        Console.Write(x);
+        Console.Write(". " );
+    
     }
-
+Console.WriteLine("Все четные числа");
 
 
 
