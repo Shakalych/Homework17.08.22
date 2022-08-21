@@ -7,7 +7,6 @@ for (int x = 1; x < num + 1; x++)
     {
         Console.Write(x);
         Console.Write(". " );
-    
     }
 
 
