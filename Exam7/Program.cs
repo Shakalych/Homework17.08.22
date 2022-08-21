@@ -1,4 +1,4 @@
-﻿//Задача из семинара!
+﻿//Задача из семинара!!
 
 Console.WriteLine("Введите день недели (1-7)");
 int x = Convert.ToInt32(Console.ReadLine());
