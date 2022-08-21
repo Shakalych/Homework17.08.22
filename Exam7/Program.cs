@@ -6,7 +6,7 @@ if (x == 1)
 {
     Console.WriteLine("Понедельник");
 }
-if (x == 2)
+if  (x == 2)
 {
     Console.WriteLine("Вторник");
 }
@@ -18,7 +18,7 @@ if (x == 4)
 {
     Console.WriteLine("Четверг");
 }
-if (x == 5)
+if (x == 5)														   			   			
 {
     Console.WriteLine("Пятница");
 }
@@ -28,5 +28,5 @@ if (x == 6)
 }
 if (x == 7)
 {
-    Console.WriteLine("Воскресенье");
+    Console.WriteLine("Воскресенье");              
 }
